@@ -76,47 +76,26 @@ I'm a passionate Software Engineer and Full Stack Developer with expertise in ME
 
 ## 📊 GitHub Stats & Activity
 
-<!-- GitHub Stats Card -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ducnvidiak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
 <!-- GitHub Streak Stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnvidiak&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ducnvidiak&theme=radical&hide_border=true" style="display: inline-block;"/>
+  <a href="https://github.com/ducnvidiak/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnvidiak&layout=compact&theme=radical&hide_border=true" style="display: inline-block;"/>
+  </a>
 </div>
 
-<!-- Most Used Languages -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnvidiak&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <!-- Trophies -->
+  <img style="display: inline-block; vertical-align: top;" src="https://github-profile-trophy.vercel.app/?username=ducnvidiak&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/ducnvidiak/github-readme-stats">
+    <img style="display: inline-block; vertical-align: top;" src="https://github-readme-stats.vercel.app/api?username=ducnvidiak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  </a>
 </div>
 
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ducnvidiak&theme=radical&hide_border=true"/>
-</div>
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ducnvidiak&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3"/>
-</div>
-
-<!-- Contribution Grid Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ducnvidiak/ducnvidiak/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-<!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ducnvidiak&label=Profile%20Views&color=blueviolet&style=flat"/>
 </div>
-
-<!-- Stats in Table Format -->
-|
-<a href="https://github.com/ducnvidiak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ducnvidiak&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats"/></a>
-|
-<a href="https://github.com/ducnvidiak/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ducnvidiak&layout=compact&theme=radical&hide_border=true"/></a>
-|
 
 <!-- Commit Calendar -->
 <div align="center">
